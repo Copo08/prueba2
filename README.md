@@ -1,2 +1,2 @@
 # prueba2
-introducción a Git
+introducción a Git.
